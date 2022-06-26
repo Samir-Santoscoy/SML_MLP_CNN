@@ -1030,3 +1030,5 @@ CNN7_pred = pd.DataFrame(CNN7_pred).transpose()
 CNN7_pred.to_csv("/content/drive/Shareddrives/SMLE: Guzmán-Santoscoy-Robles/data/CNN7_pred.csv")
 
 #---FIN---
+
+#--- El archivo .ipynb contiene las salidas por bloque de codigo junto con las visualizaciones ---
