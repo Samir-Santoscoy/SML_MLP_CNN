@@ -1031,4 +1031,5 @@ CNN7_pred.to_csv("/content/drive/Shareddrives/SMLE: Guzmán-Santoscoy-Robles/da
 
 #---FIN---
 
-#--- El archivo .ipynb contiene las salidas por bloque de codigo junto con las visualizaciones ---
+#--- Nota
+#--- El archivo .ipynb contiene las salidas por bloque de codigo junto con las visualizaciones --- 
