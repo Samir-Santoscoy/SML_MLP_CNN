@@ -1029,6 +1029,6 @@ CNN7_pred = np.argmax(CNN7_pred, axis=1)
 CNN7_pred = pd.DataFrame(CNN7_pred).transpose()
 CNN7_pred.to_csv("/content/drive/Shareddrives/SMLE: Guzmán-Santoscoy-Robles/data/CNN7_pred.csv")
 
-#---FIN---
+#---END---
 
-#--- El archivo .ipynb contiene las salidas por bloque de codigo junto con las visualizaciones ---
+#--- The .ipynb file contains the outputs by chunk of code in addition to the views ---
