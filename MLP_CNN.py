@@ -1027,4 +1027,4 @@ CNN7_pred = np.argmax(CNN7_pred, axis=1)
 CNN7_pred = pd.DataFrame(CNN7_pred).transpose()
 CNN7_pred.to_csv("/content/drive/Shareddrives/SMLE: Guzmán-Santoscoy-Robles/data/CNN7_pred.csv")
 
-#--FIN--
+#---FIN---
