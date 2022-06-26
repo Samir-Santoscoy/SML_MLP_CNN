@@ -885,6 +885,8 @@ plt.show()
 
 CNN5.summary()
 
+# This one seems to be the best model so far
+
 """## CNN_6"""
 
 CNN6 = keras.Sequential(
